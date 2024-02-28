@@ -4,6 +4,7 @@ Modalidad: En parejas
 
 *Integrantes:* 
 
+
 **Adriana Paola Mejia Mendez** 20190015
 
 **Melanie Jackeline Ramirez Martinez** 20190148
